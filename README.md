@@ -74,7 +74,7 @@ Voici quelques cas d’utilisation :
   <img src="images/google-gemini-icon.svg" alt="Gemini" title="Gemini" height="36" style="margin-right: 10px;" />
 
   <!-- n8n (SVG) -->
-  <img src="images/n8n-icons.svg" alt="n8n" title="n8n" height="36" style="margin-right: 10px;" />
+  <img src="images/n8n-Icons.svg" alt="n8n" title="n8n" height="36" style="margin-right: 10px;" />
 </p>
 
 ---
