@@ -63,16 +63,18 @@ Voici quelques cas d’utilisation :
 
 <p align="left">
   <!-- Mistral AI (SVG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Mistral_logo.svg" alt="Mistral AI" title="Mistral AI" height="36" style="margin-right: 10px;"/>
+  <img src="images/mistral-ai-icon.svg" alt="Mistral AI" title="Mistral AI" height="36" style="margin-right: 10px;" />
 
   <!-- ChatGPT (SVG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="ChatGPT" title="ChatGPT" height="36" style="margin-right: 10px;"/>
+  <img src="images/chatgpt-icon.svg" alt="ChatGPT" title="ChatGPT" height="36" style="margin-right: 10px;" />
 
   <!-- Claude (SVG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Anthropic_Logo.svg" alt="Claude" title="Claude" height="36" style="margin-right: 10px;"/>
+  <img src="images/claude-ai-icon.svg" alt="Claude" title="Claude" height="36" style="margin-right: 10px;" />
+  <!-- Gemini (SVG) -->
+  <img src="images/google-gemini-icon.svg" alt="Gemini" title="Gemini" height="36" style="margin-right: 10px;" />
 
   <!-- n8n (SVG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/N8n_logo.svg" alt="n8n" title="n8n" height="36" style="margin-right: 10px;"/>
+  <img src="images/n8n.svg" alt="n8n" title="n8n" height="36" style="margin-right: 10px;" />
 </p>
 
 ---
