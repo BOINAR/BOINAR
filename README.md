@@ -1,16 +1,80 @@
-## Hi there 👋
+<!-- Bannière de bienvenue -->
+<h1 align="center">Salut, moi c'est <strong>Nayeff !</strong> 👋🏼</h1>
+<p align="center">Développeur fullstack passionné | Alternant chez <strong>Remedex</strong> | Étudiant à <strong>L'École la Plateforme</strong></p>
 
-<!--
-**BOINAR/BOINAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je prépare actuellement un **Master of Science IT & Business – Niv BAC +5 - Ingénierie du web**, à la **Plateforme**.
+
+💡 Curieux, rigoureux et passionné par l'IA et l'automatisation, je suis constamment à la recherche de **projets stimulants** qui combinent backend robuste, frontend élégant et intelligence artificielle.
+
+> _"Simplicité dans le code, clarté dans l'expérience."_  
+> _"Automatiser le banal pour libérer le génial."_
+
+---
+
+### 🧰 Stack technique & outils
+
+#### 💻 Frontend
+![NextJS](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+#### 🧠 Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+
+#### 🗃️ Base de données
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![SwiftData](https://img.shields.io/badge/SwiftData-FA7343?logo=swift&logoColor=white)
+
+#### ⚙️ ORM / ODM
+![Entity Framework](https://img.shields.io/badge/EntityFramework-68217A?logo=dotnet&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
+
+#### 📱 Mobile
+![React Native](https://img.shields.io/badge/ReactNative-20232A?logo=react&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)
+
+#### 🔧 DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+
+#### 🧠 Intelligence Artificielle & Automatisation
+
+Dans mes projets **web** et **mobile**, j'intègre des **APIs d'IA** telles que **Mistral AI**, **ChatGPT**, et **Claude** pour offrir des expériences intelligentes et interactives.  
+🔗 **n8n** me permet d'automatiser des workflows complexes, en connectant des applications, des services tiers, et des processus métier tout en intégrant l'IA pour rendre ces automatisations encore plus puissantes.  
+
+Voici quelques cas d’utilisation :  
+- **Génération de contenu automatisée** via des modèles d'IA,  
+- **Création d'assistants autonomes** pour les applications,  
+- **Traitement de données et intégration avec des APIs externes** pour des automatisations avancées.
+
+🧠 + 🤖 = ⚡ Productivité optimisée, tâches répétitives supprimées, et expériences utilisateurs enrichies.
+
+<br>
+
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-blueviolet?logo=brain&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_3-121212?logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-AE3E3E?logo=n8n&logoColor=white)
+
+---
+
+### 📌 En ce moment
+
+- 💼 En alternance en tant que développeur fullstack
+- 🎓 Étudiant à **L'École de la Plateforme**
+- 🔍 Je reste à l'écoute pour collaborer sur des projets innovants (SaaS, AI, automatisation…)
+
+---
+
+<!-- Signature -->
+<p align="center">Merci pour votre visite 🚀</p>
