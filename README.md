@@ -63,8 +63,7 @@ Dans mes projets **web** et **mobile**, j'intègre des **APIs d'IA** telles que 
 
 <p style="display: inline-flex; align-items: center; gap: 8px;>
 <span><img src="images/n8n-icon.svg" alt="n8n" title="n8n" height="36"/></span><span><strong>Automatisation</strong></span>  
-</p>
-**n8n** me permet d'automatiser des workflows complexes, en connectant des applications, des services tiers, et des processus métier tout en intégrant l'IA pour rendre ces automatisations encore plus puissantes. 
+</p> **n8n** me permet d'automatiser des workflows complexes, en connectant des applications, des services tiers, et des processus métier tout en intégrant l'IA pour rendre ces automatisations encore plus puissantes. 
 
 Voici quelques cas d’utilisation :  
 - **Génération de contenu automatisée** via des modèles d'IA  
