@@ -49,7 +49,9 @@ Je prépare actuellement un **Master of Science IT & Business – Niv BAC +5 - I
 
 #### ✨ Intelligence Artificielle  
 
-Dans mes projets **web** et **mobile**, j'intègre des **APIs d'IA** telles que **Mistral AI**, **ChatGPT**, et **Claude** pour offrir des expériences intelligentes et interactives.  <br>
+Dans mes projets **web** et **mobile**, j'intègre des **APIs d'IA** telles que **Mistral AI**, **ChatGPT**, et **Claude** pour offrir des expériences intelligentes et interactives.  
+
+<br>
 
 <p align="left">
   <img src="images/mistral-ai-icon.svg" alt="Mistral AI" title="Mistral AI" height="36" />&nbsp;&nbsp;&nbsp;
@@ -59,9 +61,9 @@ Dans mes projets **web** et **mobile**, j'intègre des **APIs d'IA** telles que 
   <img src="images/perplexity-ai-icon.svg" alt="Perplexity" title="Perplexity" height="36" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<p style="display: inline-flex; align-items: center; gap: 8px;">
-  <img src="images/n8n-icon.svg" alt="n8n" title="n8n" height="20" />
-  <span>Automatisation</span>
+<p align="left">
+  <img src="images/n8n-icon.svg" alt="n8n" title="n8n" height="36" style="position: relative; top: 6px;" />
+  <strong>Automatisation</strong>
 </p>
 **n8n** me permet d'automatiser des workflows complexes, en connectant des applications, des services tiers, et des processus métier tout en intégrant l'IA pour rendre ces automatisations encore plus puissantes. 
 
@@ -71,8 +73,6 @@ Voici quelques cas d’utilisation :
 - **Traitement de données et intégration avec des APIs externes** pour des automatisations avancées  
 
 🧠 + 🤖 = ⚡ Productivité optimisée, tâches répétitives supprimées, et expériences utilisateurs enrichies.
-
-
 
 ---
 
