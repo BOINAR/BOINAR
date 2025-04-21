@@ -61,13 +61,13 @@ Dans mes projets **web** et **mobile**, j'intègre des **APIs d'IA** telles que 
   <img src="images/perplexity-ai-icon.svg" alt="Perplexity" title="Perplexity" height="36" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; width: 100%; border-spacing: 0;">
   <tr>
     <td style="border: none; padding: 0;">
-      <img src="images/chatgpt-icon.svg" alt="ChatGPT" height="36" />
+      <img src="images/n8n-icon.svg" alt="n8n" height="36" />
     </td>
-    <td style="border: none; padding: 0 0 0 8px; vertical-align: middle;">
-      <strong>Assistant IA</strong>
+    <td style="border: none; padding-left: 8px; vertical-align: middle; line-height: 36px;">
+      <strong>Automatisation</strong>
     </td>
   </tr>
 </table>
