@@ -62,11 +62,19 @@ Voici quelques cas d’utilisation :
 <br>
 
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/mistral-1.svg" alt="Mistral AI" title="Mistral AI" height="36" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/color/48/openai.png" alt="ChatGPT" title="ChatGPT" style="margin-right: 10px;"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="36" height="36" style="margin-right: 10px;">
+    <path d="M15.4 4.6c-1.8-.5-3.7-.8-5.5-.8-1.7 0-3.3.2-5 0-1.2-.1-2.2.5-2.9 1.3-.7.8-1.1 1.8-1.3 2.9-1 3.3-.6 6.9 1.1 10 1.3 2.3 3.4 3.8 5.9 4.5 1.4-.3 2.7-.8 4-1.6 1.4-1.4 2.1-3.3 2.5-5.2.4-2.1.3-4.2-.3-6.2-.7-2.2-2-4.1-3.8-5.3zM15 10.2c-1.1-.4-2.3-.5-3.4-.3-.9.1-1.7.5-2.3 1.1-.6-.6-1.4-1-2.3-1.1-1.1-.2-2.3-.1-3.4.3-.9.3-1.7.8-2.3 1.5-2.3 2.3-2.5 5.7-.6 8.1.5.5 1.1.9 1.7 1.2 1.1.5 2.3.9 3.6 1.3.6-1.5 1.5-3.1 2.7-4.4.1-.2-.1-.5-.3-.7z"/>
+  </svg>
+
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="36" height="36" style="margin-right: 10px;">
+    <path d="M19.16 2c-.64 0-1.28.17-1.84.48-.55-.82-1.43-1.35-2.43-1.35-1.93 0-3.5 1.66-3.5 3.5v1h-2v-1c0-2.48 2.02-4.5 4.5-4.5 1.61 0 3.08.88 3.81 2.2C21.13 2.68 20.16 2 19.16 2zM12 7h-1v2h1v7.9c-.5-.5-1.06-.9-1.64-1.3-.78-.51-1.6-.91-2.48-1.2l-.04-.04c-.21-.12-.43-.24-.66-.34-.46-.16-.94-.3-1.42-.42.13-.46.32-.91.56-1.36.66-1.04 1.45-1.96 2.33-2.72L12 7zm0 0z"/>
+  </svg>
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Anthropic_Logo.png" alt="Claude" title="Claude" height="36" style="margin-right: 10px;"/>
-  <img src="https://n8n.io/images/logo.svg" alt="n8n" title="n8n" height="36" style="margin-right: 10px;"/>
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/48/external-OCR-ocr-flat-icons-inmotus-design.png" alt="OCR" title="OCR" height="36"/>
+
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="36" height="36" style="margin-right: 10px;">
+    <path d="M3 1c-.55 0-1 .45-1 1v16c0 .55.45 1 1 1h18c.55 0 1-.45 1-1V2c0-.55-.45-1-1-1H3zm0 2h18v14H3V3zm9 3c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/>
+  </svg>
 </p>
 
 ---
