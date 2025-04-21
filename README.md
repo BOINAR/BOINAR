@@ -61,10 +61,12 @@ Dans mes projets **web** et **mobile**, j'intègre des **APIs d'IA** telles que 
   <img src="images/perplexity-ai-icon.svg" alt="Perplexity" title="Perplexity" height="36" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<div style="display: flex; align-items: center; gap: 8px;">
-  <img src="images/n8n-icon.svg" alt="n8n" title="n8n" height="36" />
-  <span>Automatisation</span>
-</div>
+<table>
+  <tr>
+    <td><img src="images/n8n-icon.svg" alt="n8n" height="36" /></td>
+    <td style="padding-left: 8px;"><strong>Automatisation</strong></td>
+  </tr>
+</table>
 </p> **n8n** me permet d'automatiser des workflows complexes, en connectant des applications, des services tiers, et des processus métier tout en intégrant l'IA pour rendre ces automatisations encore plus puissantes. 
 
 Voici quelques cas d’utilisation :  
