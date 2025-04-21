@@ -61,20 +61,14 @@ Dans mes projets **web** et **mobile**, j'intègre des **APIs d'IA** telles que 
   <img src="images/perplexity-ai-icon.svg" alt="Perplexity" title="Perplexity" height="36" />&nbsp;&nbsp;&nbsp;
 </p>
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td><img src="images/n8n-icon.svg" alt="n8n" height="36" /></td>
-    <td style="padding-left: 8px;">Automatisation</td>
-
-    <td style="width: 40px;"></td>
-
-    <td><img src="images/chatgpt-icon.svg" alt="ChatGPT" height="36" /></td>
-    <td style="padding-left: 8px;">Assistant IA</td>
-
-    <td style="width: 40px;"></td>
-
-    <td><img src="images/claude-ai-icon.svg" alt="Claude" height="36" /></td>
-    <td style="padding-left: 8px;">Analyse</td>
+    <td style="border: none; padding: 0;">
+      <img src="images/chatgpt-icon.svg" alt="ChatGPT" height="36" />
+    </td>
+    <td style="border: none; padding: 0 0 0 8px; vertical-align: middle;">
+      <strong>Assistant IA</strong>
+    </td>
   </tr>
 </table>
 </p> **n8n** me permet d'automatiser des workflows complexes, en connectant des applications, des services tiers, et des processus métier tout en intégrant l'IA pour rendre ces automatisations encore plus puissantes. 
