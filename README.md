@@ -53,25 +53,28 @@ Dans mes projets **web** et **mobile**, j'intègre des **APIs d'IA** telles que 
 🔗 **n8n** me permet d'automatiser des workflows complexes, en connectant des applications, des services tiers, et des processus métier tout en intégrant l'IA pour rendre ces automatisations encore plus puissantes.  
 
 Voici quelques cas d’utilisation :  
-- **Génération de contenu automatisée** via des modèles d'IA,  
-- **Création d'assistants autonomes** pour les applications,  
-- **Traitement de données et intégration avec des APIs externes** pour des automatisations avancées.
+- **Génération de contenu automatisée** via des modèles d'IA  
+- **Création d'assistants autonomes** pour les applications  
+- **Traitement de données et intégration avec des APIs externes** pour des automatisations avancées  
 
 🧠 + 🤖 = ⚡ Productivité optimisée, tâches répétitives supprimées, et expériences utilisateurs enrichies.
 
 <br>
 
-![Mistral AI](https://img.shields.io/badge/Mistral_AI-blueviolet?logo=brain&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_3-121212?logo=anthropic&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-AE3E3E?logo=n8n&logoColor=white)
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/mistral-1.svg" alt="Mistral AI" title="Mistral AI" height="36" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/color/48/openai.png" alt="ChatGPT" title="ChatGPT" style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Anthropic_Logo.png" alt="Claude" title="Claude" height="36" style="margin-right: 10px;"/>
+  <img src="https://n8n.io/images/logo.svg" alt="n8n" title="n8n" height="36" style="margin-right: 10px;"/>
+  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/48/external-OCR-ocr-flat-icons-inmotus-design.png" alt="OCR" title="OCR" height="36"/>
+</p>
 
 ---
 
 ### 📌 En ce moment
 
-- 💼 En alternance en tant que développeur fullstack
-- 🎓 Étudiant à **L'École de la Plateforme**
+- 💼 En alternance en tant que développeur fullstack  
+- 🎓 Étudiant à **L'École de la Plateforme**  
 - 🔍 Je reste à l'écoute pour collaborer sur des projets innovants (SaaS, AI, automatisation…)
 
 ---
