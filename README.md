@@ -62,25 +62,17 @@ Voici quelques cas d’utilisation :
 <br>
 
 <p align="left">
-  <!-- Mistral AI (SVG version) -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M12 2L2 7h3v10h4V9h2v8h4V7h3L12 2z"></path>
-  </svg>
+  <!-- Mistral AI (SVG libre de droit) -->
+  <img src="https://cdn.jsdelivr.net/gh/heroicons/react/solid/outline/academic-cap.svg" alt="Mistral AI" title="Mistral AI" height="36" style="margin-right: 10px;"/>
 
-  <!-- ChatGPT (SVG version) -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8z"></path>
-  </svg>
+  <!-- ChatGPT (SVG libre de droit) -->
+  <img src="https://cdn.jsdelivr.net/gh/heroicons/react/solid/outline/chat-alt-2.svg" alt="ChatGPT" title="ChatGPT" style="margin-right: 10px;"/>
 
-  <!-- Claude (SVG version) -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8z"></path>
-  </svg>
+  <!-- Claude (SVG libre de droit) -->
+  <img src="https://cdn.jsdelivr.net/gh/heroicons/react/solid/outline/lightning-bolt.svg" alt="Claude" title="Claude" height="36" style="margin-right: 10px;"/>
 
-  <!-- n8n (SVG version) -->
-  <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M12 2L2 7h3v10h4V9h2v8h4V7h3L12 2z"></path>
-  </svg>
+  <!-- n8n (SVG libre de droit) -->
+  <img src="https://cdn.jsdelivr.net/gh/heroicons/react/solid/outline/globe-alt.svg" alt="n8n" title="n8n" height="36" style="margin-right: 10px;"/>
 </p>
 
 ---
