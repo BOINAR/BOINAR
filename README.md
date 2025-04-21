@@ -63,20 +63,20 @@ Voici quelques cas d’utilisation :
 
 <p align="left">
   <!-- Mistral AI (SVG) -->
-  <img src="images/mistral-ai-icon.svg" alt="Mistral AI" title="Mistral AI" height="36" style="margin-right: 20px;" />
+  <img src="images/mistral-ai-icon.svg" alt="Mistral AI" title="Mistral AI" height="36" style="margin-right: 40px;" />
 
   <!-- ChatGPT (SVG) -->
-  <img src="images/chatgpt-icon.svg" alt="ChatGPT" title="ChatGPT" height="36" style="margin-right: 20px;" />
+  <img src="images/chatgpt-icon.svg" alt="ChatGPT" title="ChatGPT" height="36" style="margin-right: 40px;" />
 
   <!-- Claude (SVG) -->
-  <img src="images/claude-ai-icon.svg" alt="Claude" title="Claude" height="36" style="margin-right: 20px;" />
+  <img src="images/claude-ai-icon.svg" alt="Claude" title="Claude" height="36" style="margin-right: 40px;" />
   <!-- Gemini (SVG) -->
-  <img src="images/google-gemini-icon.svg" alt="Gemini" title="Gemini" height="36" style="margin-right: 20px;" />
+  <img src="images/google-gemini-icon.svg" alt="Gemini" title="Gemini" height="36" style="margin-right: 40px;" />
   <!-- Perplexiti (SVG) -->
-  <img src="images/perplexity-ai-icon.svg" alt="Perplexity" title="Perplexity" height="36" style="margin-right: 20px;" />
+  <img src="images/perplexity-ai-icon.svg" alt="Perplexity" title="Perplexity" height="36" style="margin-right: 40px;" />
 
   <!-- n8n (SVG) -->
-  <img src="images/n8n-icon.svg" alt="n8n" title="n8n" height="36" style="margin-right: 20px;" />
+  <img src="images/n8n-icon.svg" alt="n8n" title="n8n" height="36" />
 </p>
 
 ---
