@@ -1,6 +1,6 @@
 <!-- Bannière de bienvenue -->
 <h1 align="center">Salut, moi c'est <strong>Nayeff !</strong> 👋🏼</h1>
-<p align="center">Développeur fullstack passionné | Alternant chez <strong>Remedex</strong> | Étudiant à <strong>L'École la Plateforme</strong></p>
+<p align="center">Développeur fullstack passionné</p>
 
 ---
 
@@ -8,7 +8,7 @@
 
 Je prépare actuellement un **Master of Science IT & Business – Niv BAC +5 - Ingénierie du web**, à la **Plateforme**.
 
-💡 Curieux, rigoureux et passionné par l'IA et l'automatisation, je suis constamment à la recherche de **projets stimulants** qui combinent backend robuste, frontend élégant et intelligence artificielle.
+💡 Curieux, rigoureux et passionné par les Homelabs, l'IA et l'automatisation, je suis constamment à la recherche de **projets stimulants** qui combinent backend robuste, frontend élégant et intelligence artificielle.
 
 > _"Simplicité dans le code, clarté dans l'expérience."_  
 > _"Automatiser le banal pour libérer le génial."_
