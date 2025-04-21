@@ -22,7 +22,7 @@ Je prépare actuellement un **Master of Science IT & Business – Niv BAC +5 - I
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-#### 🧠 Backend
+#### 💾 Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
@@ -33,7 +33,7 @@ Je prépare actuellement un **Master of Science IT & Business – Niv BAC +5 - I
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![SwiftData](https://img.shields.io/badge/SwiftData-FA7343?logo=swift&logoColor=white)
 
-#### ⚙️ ORM / ODM
+#### ⛃ ORM / ODM
 ![Entity Framework](https://img.shields.io/badge/EntityFramework-68217A?logo=dotnet&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
@@ -42,12 +42,12 @@ Je prépare actuellement un **Master of Science IT & Business – Niv BAC +5 - I
 ![React Native](https://img.shields.io/badge/ReactNative-20232A?logo=react&logoColor=61DAFB)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift&logoColor=white)
 
-#### 🔧 DevOps & CI/CD
+#### 👨‍💻 DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
-#### 🧠 Intelligence Artificielle & Automatisation
+#### ✨ Intelligence Artificielle & Automatisation
 
 Dans mes projets **web** et **mobile**, j'intègre des **APIs d'IA** telles que **Mistral AI**, **ChatGPT**, et **Claude** pour offrir des expériences intelligentes et interactives.  
 🔗 **n8n** me permet d'automatiser des workflows complexes, en connectant des applications, des services tiers, et des processus métier tout en intégrant l'IA pour rendre ces automatisations encore plus puissantes.  
@@ -74,7 +74,7 @@ Voici quelques cas d’utilisation :
   <img src="images/google-gemini-icon.svg" alt="Gemini" title="Gemini" height="36" style="margin-right: 10px;" />
 
   <!-- n8n (SVG) -->
-  <img src="images/n8n.svg" alt="n8n" title="n8n" height="36" style="margin-right: 10px;" />
+  <img src="images/n8n-icons.svg" alt="n8n" title="n8n" height="36" style="margin-right: 10px;" />
 </p>
 
 ---
