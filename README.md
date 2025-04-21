@@ -62,10 +62,12 @@ Voici quelques cas d’utilisation :
 <br>
 
 <p align="left">
-  <!-- Mistral AI (SVG) -->
-  | Mistral AI | ChatGPT | Claude | Gemini | Perplexity | n8n |
-|------------|---------|--------|--------|------------|-----|
-| <img src="images/mistral-ai-icon.svg" alt="Mistral AI" title="Mistral AI" height="36" /> | <img src="images/chatgpt-icon.svg" alt="ChatGPT" title="ChatGPT" height="36" /> | <img src="images/claude-ai-icon.svg" alt="Claude" title="Claude" height="36" /> | <img src="images/google-gemini-icon.svg" alt="Gemini" title="Gemini" height="36" /> | <img src="images/perplexity-ai-icon.svg" alt="Perplexity" title="Perplexity" height="36" /> | <img src="images/n8n-icon.svg" alt="n8n" title="n8n" height="36" /> |
+  <img src="images/mistral-ai-icon.svg" alt="Mistral AI" title="Mistral AI" height="36" />&nbsp;&nbsp;&nbsp;
+  <img src="images/chatgpt-icon.svg" alt="ChatGPT" title="ChatGPT" height="36" />&nbsp;&nbsp;&nbsp;
+  <img src="images/claude-ai-icon.svg" alt="Claude" title="Claude" height="36" />&nbsp;&nbsp;&nbsp;
+  <img src="images/google-gemini-icon.svg" alt="Gemini" title="Gemini" height="36" />&nbsp;&nbsp;&nbsp;
+  <img src="images/perplexity-ai-icon.svg" alt="Perplexity" title="Perplexity" height="36" />&nbsp;&nbsp;&nbsp;
+  <img src="images/n8n-icon.svg" alt="n8n" title="n8n" height="36" />
 </p>
 
 ---
